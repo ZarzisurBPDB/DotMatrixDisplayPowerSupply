@@ -1,0 +1,43 @@
+# KiCad project files to ignore
+
+# Backup and autosave files
+*.bak
+*.tmp
+*.sch-bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+
+# Netlist and BOM exports
+*.net
+*.xml
+*.csv
+*.dcm
+
+# Simulation and intermediate files
+*.log
+*.raw
+*.out
+*.cache
+*.aux
+*.toc
+
+# Gerber and drill files
+*.gbr
+*.drl
+*.zip
+
+# 3D model cache
+*.step
+*.stp
+*.wrl
+
+# KiCad user settings (optional)
+*.kicad_prl
+*.kicad_wks
+*.kicad_mod
+*.kicad_sym
+*.kicad_footprint
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
