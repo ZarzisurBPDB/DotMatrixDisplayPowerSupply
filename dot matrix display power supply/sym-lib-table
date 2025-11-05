@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "sc3152")(type "KiCad")(uri "C:/Rony AE/KICAD/kicad_ups_motherboard/Dot Matrix Display Power Supply/Library/sc3152.kicad_sym")(options "")(descr ""))
+  (lib (name "symbol Library")(type "KiCad")(uri "C:/Rony AE/KICAD/kicad_ups_motherboard/Dot Matrix Display Power Supply/Library/symbol Library.kicad_sym")(options "")(descr ""))
+  (lib (name "az431n")(type "KiCad")(uri "C:/Rony AE/KICAD/kicad_ups_motherboard/Dot Matrix Display Power Supply/Library/az431n.kicad_sym")(options "")(descr ""))
+  (lib (name "NCP1252")(type "KiCad")(uri "C:/Rony AE/KICAD/Dot Matrix Display Power Supply/Library/NCP1252.kicad_sym")(options "")(descr ""))
+  (lib (name "New_Library")(type "KiCad")(uri "C:/Rony AE/KICAD/Dot Matrix Display Power Supply/Library/New_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "ul_AZ431AN-ATRE1")(type "EasyEDA (JLCEDA) Pro")(uri "C:/Rony AE/KICAD/Dot Matrix Display Power Supply/Library/ul_AZ431AN-ATRE1.zip")(options "")(descr ""))
+)
